@@ -1,6 +1,6 @@
 ### Hey there! 
 ## My Name is ****LESLIE**** 👋
-## I'm the front-end wizard! I have a passion for creating stunning web experiences that blow users away, and I'm constantly exploring new technologies to keep my skills sharp.
+## Front-end developer with an insatiable curiosity for emerging technologies, creating web experiences that leave a wonderful user experience.
 ## :sparkles:My skills::sparkles:
 * HTML (my first love)
 * CSS (my favorite way to express myself)
