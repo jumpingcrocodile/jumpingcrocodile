@@ -10,8 +10,8 @@
 * Responsive design (my specialty)
 
 ## :seedling:My work:
-* Check out some of my latest projects on my portfolio website and prepare to be amazed.
-* View my open-source contributions on my Github profile and join the fan club.
+* Check out some of my latest projects on my portfolio website~~
+
 ## :ok_woman:What I'm up to:
 * Currently learning Front - end development with Academy Xi
 * Learning new design techniques to enhance my skills as a front-end developer and impress everyone.
