@@ -1,6 +1,6 @@
 ### Hey there! 
 ## My Name is ****LESLIE**** 👋
-## Front-end developer with an insatiable curiosity for emerging technologies, creating web experiences that leave a wonderful user experience.
+## I am driven to create experiences that seamlessly weave in the core values of a business, with the ultimate goal of delivering them to the right users. By merging purpose and design, I strive to create digital experiences that engage and inspire, leaving a lasting impact on the audience.
 ## :sparkles:My skills::sparkles:
 * HTML (my first love)
 * CSS (my favorite way to express myself)
