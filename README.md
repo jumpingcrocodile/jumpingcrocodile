@@ -1,6 +1,6 @@
 ### Hey there! 
 ## My Name is ****LESLIE**** 👋
-## I am driven to design web experiences that seamlessly integrate a business's core values, igniting emotion and fostering connection with users. By producing digital experiences that go beyond aesthetics and create a meaningful connection
+## I am driven to design web experiences that seamlessly integrate business's core values, igniting emotion and fostering connection with users. By producing digital experiences that go beyond aesthetics and create a meaningful connection
 ## :sparkles:My skills::sparkles:
 * HTML (my first love)
 * CSS (my favorite way to express myself)
