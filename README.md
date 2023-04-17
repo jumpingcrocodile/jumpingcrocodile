@@ -2,7 +2,7 @@
 ## My Name is ****LESLIE**** 👋
 ## I am driven to design web experiences that seamlessly integrate business's core values, igniting emotion and fostering connection with users. By producing digital experiences that go beyond aesthetics and create a meaningful connection
 
-[Check out my website!](jumpingcrocodile.github.io/)
+[Check out my website!](jumpingcrocodile.github.io)
 ## :sparkles:My skills::sparkles:
 * HTML (my first love)
 * CSS (my favorite way to express myself)
